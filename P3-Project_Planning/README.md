@@ -22,3 +22,5 @@ Include a link to your public Trello board. Be sure you have user stories added 
 ### Project Repo Link
 
 Include a link to your project on GitHub.
+
+-[Project repo on Github](https://github.com/bcp2415/pets-productivity.git)
