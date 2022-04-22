@@ -8,9 +8,13 @@ For this assignment you will need to upload your resume and provide links to you
  
 ### GitHub
 Provide a link to your GitHub account here.
+
+-[Brian's Github account](https://github.com/bcp2415)
  
 ### LinkedIn
 Provide a link to your LinkedIn account here.
+
+-[Brian's LinkedIn page](https://www.linkedin.com/in/bdprince/)
 
 ### Resume
 You will need to upload a .PDF of your resume to this repo, or connect with your mentor on an alternate way of submitting your resume.
